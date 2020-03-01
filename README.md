@@ -17,6 +17,8 @@ Al-Nasl（アル・ナスル）：弾幕系縦スクロールシューティン�
 
 ![](screenshots/ss1.png)
 ![](screenshots/ss2.png)
+![](screenshots/ss3.png)
+![](screenshots/ss4.png)
 
 ## How to play / 操作
 
