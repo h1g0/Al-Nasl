@@ -43,7 +43,7 @@ There are 3 stages in the game.
 
 全部で3ステージです。
 
-## Libraries it depends on / 使用ライブラリ
+## Dependent libraries / 使用ライブラリ
 
 - [DxLib]( https://dxlib.xsrv.jp/ )
 - [Boost]( https://www.boost.org/ )
