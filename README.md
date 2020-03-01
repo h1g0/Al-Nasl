@@ -1,13 +1,16 @@
 # Al-Nasl
 
-Al-Nasl: bullet-hell vertical-scrolling shooter  
-Al-Nasl（アル・ナスル）：弾幕系縦スクロールシューティングゲーム
+Al-Nasl: bullet-hell vertical-scrolling shooter
 
-In memory of a game I made about 10 years ago.
+In memory of a game I made about 10 years ago.  
 The code is very dirty, but I wrote it when I was a C++ beginner, so please forgive me.
 
+---
+
+Al-Nasl（アル・ナスル）：弾幕系縦スクロールシューティングゲーム
+
 10年前ぐらいに個人制作したゲームのバイナリとコードを発掘したので、
-思い出として公開。
+思い出として公開。  
 コードがめっちゃ汚いですが、C++初心者だった頃に書いたやつなので勘弁して。
 
 ## Screenshots / スクリーンショット
@@ -25,6 +28,10 @@ The code is very dirty, but I wrote it when I was a C++ beginner, so please forg
 - L Shift key: Slow down
   - The player's ship slows down and its shot narrows, but you can slow down enemy bullets near the player's ship.
 
+There are 3 stages in the game.
+
+---
+
 - Z キー： ショット / 決定
 - X キー： サブウェポン / キャンセル
   - レベルが 1 以上の場合、ホーミングレーザーを発射します。また、レベルが高ければ一定時間周囲の敵弾をホーミングレーザーに変換します。更に開始時と終了時に自機無敵が発生します。
@@ -33,7 +40,6 @@ The code is very dirty, but I wrote it when I was a C++ beginner, so please forg
 - 左 Shift： スロー
   - 自機が遅くなりショットが狭くなりますが、自機近くの敵弾を遅くすることができます。
 
-There are 3 stages in the game.
 
 全部で3ステージです。
 
