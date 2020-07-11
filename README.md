@@ -3,7 +3,7 @@
 Al-Nasl: bullet-hell vertical-scrolling shooter
 
 In memory of a game I made about 10 years ago.  
-The code is very dirty, but I wrote it when I was a C++ beginner, so please forgive me.
+The code is very dirty, but I wrote it when I was a C++ beginner, so please forgive me.😉
 
 ---
 
@@ -19,6 +19,34 @@ Al-Nasl（アル・ナスル）：弾幕系縦スクロールシューティン�
 ![](screenshots/ss2.png)
 ![](screenshots/ss3.png)
 ![](screenshots/ss4.png)
+
+## Download and install / ダウンロードとインストール
+
+### Without source code / ソースコード無し
+
+1. Download from [here](https://github.com/h1g0/Al-Nasl/releases).
+2. Unzip
+3. Run `al_nasl.exe`.
+4. To uninstall, just delete the directory.
+
+---
+
+1. [ここ](https://github.com/h1g0/Al-Nasl/releases)からダウンロード
+2. ダウンロードしたZipを解凍する。
+3. `al_nasl.exe`を実行する。
+4. アンインストールする場合、ディレクトリを消すだけでOK。
+
+
+### With source code / ソースコード付き
+
+```bash
+git clone git@github.com:h1g0/Al-Nasl.git
+```
+
+Note: The following dependency libraries are required to build.
+
+- [DxLib]( https://dxlib.xsrv.jp/ )
+- [Boost]( https://www.boost.org/ )
 
 ## How to play / 操作
 
@@ -42,13 +70,7 @@ There are 3 stages in the game.
 - 左 Shift： スロー
   - 自機が遅くなりショットが狭くなりますが、自機近くの敵弾を遅くすることができます。
 
-
 全部で3ステージです。
-
-## Dependent libraries / 使用ライブラリ
-
-- [DxLib]( https://dxlib.xsrv.jp/ )
-- [Boost]( https://www.boost.org/ )
 
 ## LICENSES / 使用素材等
 
